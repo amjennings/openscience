@@ -1,0 +1,138 @@
+FullName,ShortName
+Start Date,StartDate
+End Date,EndDate
+Response Type,ResponseType
+Progress,Progress
+Duration (in seconds),Duration
+Finished,Finished
+Recorded Date,RecordedDate
+Response ID,ResponseID
+Distribution Channel,DistributionChannel
+User Language,UserLanguage
+Q_RecaptchaScore,RecaptchaScore
+"Voluntary Consent:
+Please review all the information on this form before deciding whether or not you would like to participate. Taking part in this research study is strictly voluntary. If you choose to take part, you have the right to stop at any time or skip any part of the research that you may wish. If you do not wish to participate, you are free to close this page.
+
+If you wish to participate, please click the ‘Agree’ button below. By clicking ‘Agree’ below, you are attesting that you have read the above information, that you understand the tasks and risks associated with the study, and that you have had the chance to ask any questions that you may have and that you are aware that you can contact the researchers now or in the future if concerns arise. By clicking ‘agree’, you are attesting that you understand that your participation is entirely voluntary and that you can choose to discontinue your participation at any time. By clicking ‘agree’, you are attesting that you are at least 18 years of age. Lastly, clicking 'agree', you are providing your consent to participate in this study.",consent
+What is your experience with open science practices?,experience_os_practices
+"Rate your familiarity with each of the following terms as they pertain to open science practices (1 = not at all familiar, 3 = slightly familiar, 5 = somewhat familiar, 7 = moderately familiar, 10 = extremely familiar): - Preprint",familiarity_preprint
+"Rate your familiarity with each of the following terms as they pertain to open science practices (1 = not at all familiar, 3 = slightly familiar, 5 = somewhat familiar, 7 = moderately familiar, 10 = extremely familiar): - Independent repository",familiarity_ind_repo
+"Rate your familiarity with each of the following terms as they pertain to open science practices (1 = not at all familiar, 3 = slightly familiar, 5 = somewhat familiar, 7 = moderately familiar, 10 = extremely familiar): - Scholarly work",familiarity_scholarly_work
+"Rate your familiarity with each of the following terms as they pertain to open science practices (1 = not at all familiar, 3 = slightly familiar, 5 = somewhat familiar, 7 = moderately familiar, 10 = extremely familiar): - Open data",familiarity_open_data
+"Rate your familiarity with each of the following terms as they pertain to open science practices (1 = not at all familiar, 3 = slightly familiar, 5 = somewhat familiar, 7 = moderately familiar, 10 = extremely familiar): - Independent study registry",familiarity_inde_study_registry
+What is your opinion of sharing preprints in an independent repository?,your_opinion_share_preprint
+How would you rate your knowledge of posting preprints in an independent repository?,knowledge_preprints_ind_repo
+"Approximately how many of the publications you have authored or co-authored have preprints shared in an independent repository? Please enter a number between 0-100, enter 0 if not applicable.",pubs_ind_repo_preprint
+"Approximately when was the first time you shared a preprint in an independent repository? Please enter a year (e.g., 1957) or 0 if not applicable.",year_first_preprint_share
+Think about your most recent completed scholarly work that you published or intend(ed) to publish. Was the scholarly work shared as a preprint in an independent repository?,recent_pub_a_preprint
+Did any of the following reasons make you hesitate before sharing a preprint? Check all that apply. - Selected Choice,reasons_hesitate_preprint
+Did any of the following reasons make you hesitate before sharing a preprint? Check all that apply. - Other (explain below) - Text,reasons_hesitate_preprint_other
+"In your estimation, what percentage of researchers across your discipline have shared a preprint in an independent repository? Please enter a number between 0-100.",est_percent_colleagues_share
+"In your estimation, what is the distribution of opinion across behavior analysis about sharing preprints in an independent repository? In other words, what percentage of researchers fall into each opinion category listed below from Very much against sharing preprints to very much in favor of sharing preprints (must equal 100%)? - Very much against",others_opinion_sharing_preprints_vmuchagainst
+"In your estimation, what is the distribution of opinion across behavior analysis about sharing preprints in an independent repository? In other words, what percentage of researchers fall into each opinion category listed below from Very much against sharing preprints to very much in favor of sharing preprints (must equal 100%)? - Against",others_opinion_sharing_preprints_against
+"In your estimation, what is the distribution of opinion across behavior analysis about sharing preprints in an independent repository? In other words, what percentage of researchers fall into each opinion category listed below from Very much against sharing preprints to very much in favor of sharing preprints (must equal 100%)? - Neither in favor nor against (i.e., neutral)",others_opinion_sharing_preprints_neutral
+"In your estimation, what is the distribution of opinion across behavior analysis about sharing preprints in an independent repository? In other words, what percentage of researchers fall into each opinion category listed below from Very much against sharing preprints to very much in favor of sharing preprints (must equal 100%)? - In favor",others_opinion_sharing_preprints_infavor
+"In your estimation, what is the distribution of opinion across behavior analysis about sharing preprints in an independent repository? In other words, what percentage of researchers fall into each opinion category listed below from Very much against sharing preprints to very much in favor of sharing preprints (must equal 100%)? - Very much in favor",others_opinion_sharing_preprints_vmuchinfavor
+What is your opinion of preregistration?,your_opinion_prereg
+How would you rate your knowledge of preregistering a study?,knowledge_prereg
+"Approximately how many of the scholarly works you have authored or co-authored include preregistered studies? Please enter a number between 0-100, enter 0 if not applicable.",pubs_prereg
+"Approximately when was the first time you preregistered a study? Please enter a year (e.g., 1957) or 0 if not applicable.",year_first_prereg
+Did any of the following reasons make you hesitate before preregistering? Check all that apply. - Selected Choice,reasons_hesitate_prereg
+Did any of the following reasons make you hesitate before preregistering? Check all that apply. - Other (explain below) - Text,reasons_hesitate_prereg_other
+Think about your most recent empirical scholarly work that you published or intend(ed) to publish. Did the scholarly work include a preregistered study?,recent_pub_prereg
+"In your estimation, what percentage of researchers across your discipline have preregistered a study? Please enter a number between 0-100.",est_percent_colleagues_prereg
+"In your estimation, what is the distribution of opinion across your discipline about preregistration? In other words, what percentage of researchers fall into each opinion category listed below from Very much against preregistration to very much in favor of preregistration (must equal 100)? - Very much against",others_opinion_use_prereg_vmuchagainst
+"In your estimation, what is the distribution of opinion across your discipline about preregistration? In other words, what percentage of researchers fall into each opinion category listed below from Very much against preregistration to very much in favor of preregistration (must equal 100)? - Against",others_opinion_use_prereg_against
+"In your estimation, what is the distribution of opinion across your discipline about preregistration? In other words, what percentage of researchers fall into each opinion category listed below from Very much against preregistration to very much in favor of preregistration (must equal 100)? - Neither in favor nor against (i.e., neutral)",others_opinion_use_prereg_neutral
+"In your estimation, what is the distribution of opinion across your discipline about preregistration? In other words, what percentage of researchers fall into each opinion category listed below from Very much against preregistration to very much in favor of preregistration (must equal 100)? - In favor",others_opinion_use_prereg_infavor
+"In your estimation, what is the distribution of opinion across your discipline about preregistration? In other words, what percentage of researchers fall into each opinion category listed below from Very much against preregistration to very much in favor of preregistration (must equal 100)? - Very much in favor",others_opinion_use_prereg_vmuchinfavor
+What is your opinion of sharing data in an independent repository?,your_opinion_data_share
+How would you rate your knowledge of sharing data to independent repositories?,knowledge_ind_repo
+"Approximately how many of the empirical scholarly works you have authored or co-authored have data shared in an independent repository? Please enter a number between 0-100, enter 0 if not applicable.",pubs_ind_repo_shared
+"Approximately when was the first time you shared data in an independent repository? Please enter a year (e.g., 1957) or 0 if not applicable.",year_first_ind_repo
+Did any of the following reasons make you hesitate before sharing data in an independent repository? Check all that apply. - Selected Choice,reasons_hesitate_ind_repo
+Did any of the following reasons make you hesitate before sharing data in an independent repository? Check all that apply. - Other (explain below) - Text,reasons_hesitate_ind_repo_other
+Think about your most recent empirical scholarly work that you published or intend(ed) to publish. Are data for that empirical scholarly work shared in an independent repository?,recent_pub_ind_repo
+"In your estimation, what percentage of researchers across behavior analysis have shared data in an independent repository? Please enter a number between 0-100.",est_percent_colleagues_ind_repo
+"In your estimation, what is the distribution of opinion across behavior analysis about sharing data in an independent repository? In other words, what percentage of researchers fall into each opinion category listed below from Very much against sharing data to very much in favor of sharing data (must equal 100)? - Very much against",others_opinion_use_ind_repo_vmuchagainst
+"In your estimation, what is the distribution of opinion across behavior analysis about sharing data in an independent repository? In other words, what percentage of researchers fall into each opinion category listed below from Very much against sharing data to very much in favor of sharing data (must equal 100)? - Against",others_opinion_use_ind_repo_against
+"In your estimation, what is the distribution of opinion across behavior analysis about sharing data in an independent repository? In other words, what percentage of researchers fall into each opinion category listed below from Very much against sharing data to very much in favor of sharing data (must equal 100)? - Neither in favor nor against (i.e., neutral)",others_opinion_use_ind_repo_neutral
+"In your estimation, what is the distribution of opinion across behavior analysis about sharing data in an independent repository? In other words, what percentage of researchers fall into each opinion category listed below from Very much against sharing data to very much in favor of sharing data (must equal 100)? - In favor",others_opinion_use_ind_repo_infavor
+"In your estimation, what is the distribution of opinion across behavior analysis about sharing data in an independent repository? In other words, what percentage of researchers fall into each opinion category listed below from Very much against sharing data to very much in favor of sharing data (must equal 100)? - Very much in favor",others_opinion_use_ind_repo_vmuchinfavor
+What is your opinion of sharing materials?,your_opinion_share_materials
+"Approximately how many of the scholarly works you have authored or co-authored shared study materials? Please enter a number between 0-100, enter 0 if not applicable.",pubs_share_materials
+"Approximately when was the first time you shared study materials? Please enter a year (e.g., 1957) or 0 if not applicable.",year_first_share_materials
+In what ways have you shared materials? Check all that apply. - Selected Choice,how_share_materials
+In what ways have you shared materials? Check all that apply. - Other (explain below) - Text,how_share_materials_other
+Did any of the following reasons make you hesitate before sharing materials? Check all that apply. - Selected Choice,reasons_hesitate_share_materials
+Did any of the following reasons make you hesitate before sharing materials? Check all that apply. - Other (explain below) - Text,reasons_hesitate_share_materials_other
+Think about your most recent empirical scholarly work that you published or intend(ed) to publish. Did the scholarly work share study materials?,recent_pub_share_materials
+"In your estimation, what percentage of researchers across your discipline have shared study materials? Please enter a number between 0-100.",est_percent_colleagues_share_materials
+"In your estimation, what is the distribution of opinion across your discipline about sharing study materials? In other words, what percentage of researchers fall into each opinion category listed below from Very much against sharing materials to very much in favor of sharing materials  (must equal 100)? - Very much against",others_opinion_use_share_materials_vmuchagainst
+"In your estimation, what is the distribution of opinion across your discipline about sharing study materials? In other words, what percentage of researchers fall into each opinion category listed below from Very much against sharing materials to very much in favor of sharing materials  (must equal 100)? - Against",others_opinion_use_share_materials_against
+"In your estimation, what is the distribution of opinion across your discipline about sharing study materials? In other words, what percentage of researchers fall into each opinion category listed below from Very much against sharing materials to very much in favor of sharing materials  (must equal 100)? - Neither in favor nor against (i.e., neutral)",others_opinion_use_share_materials_neutral
+"In your estimation, what is the distribution of opinion across your discipline about sharing study materials? In other words, what percentage of researchers fall into each opinion category listed below from Very much against sharing materials to very much in favor of sharing materials  (must equal 100)? - In favor",others_opinion_use_share_materials_infavor
+"In your estimation, what is the distribution of opinion across your discipline about sharing study materials? In other words, what percentage of researchers fall into each opinion category listed below from Very much against sharing materials to very much in favor of sharing materials  (must equal 100)? - Very much in favor",others_opinion_use_share_materials_vmuchinfavor
+"Please rank the potential barriers to engaging open science practices, with the first item being the greatest barrier. - Lack of knowledge of open science practices",barrier_knowledge_os_practices
+"Please rank the potential barriers to engaging open science practices, with the first item being the greatest barrier. - Too time consuming/lack of support",barrier_time_consuming_support
+"Please rank the potential barriers to engaging open science practices, with the first item being the greatest barrier. - Researchers do not want to share their ideas/data",barrier_researchers_no_share
+"Please rank the potential barriers to engaging open science practices, with the first item being the greatest barrier. - Lack of knowledge of suitable registries",barrier_knowledge_registries
+"Please rank the potential barriers to engaging open science practices, with the first item being the greatest barrier. - It does not seem relevant ",barrier_not_relevant
+"Please rank the potential barriers to engaging open science practices, with the first item being the greatest barrier. - Opposition from collaborators ",barrier_collaborator_opposition
+"Please rank the potential barriers to engaging open science practices, with the first item being the greatest barrier. - Lack of direct benefit to the researcher",barrier_no_benefit
+Which of the following barriers have you experienced? Check all that apply.,barriers_experienced
+"Please rank the opportunities to increase knowledge of open science practices, with the first item being the most impactful opportunity. - Including training in graduate programs",increase_knowledge_include_grad_training
+"Please rank the opportunities to increase knowledge of open science practices, with the first item being the most impactful opportunity. - Increasing support from superiors",increase_knowledge_support_superiors
+"Please rank the opportunities to increase knowledge of open science practices, with the first item being the most impactful opportunity. - Training via workshops",increase_knowledge_workshops
+"Please rank the opportunities to increase knowledge of open science practices, with the first item being the most impactful opportunity. - Training via webinars",increase_knowledge_webinars
+"Please rank the opportunities to increase knowledge of open science practices, with the first item being the most impactful opportunity. - Training via article tutorials",increase_knowledge_article_tutorials
+"Please rank the opportunities to increase knowledge of open science practices, with the first item being the most impactful opportunity. - Access to resources (e.g., suitable registries)",increase_knowledge_resource_access
+"Please rank the ways to increase use of open science practices, with the first item being the most impactful way. - Including training in graduate programs",rank_impact_include_grad_training
+"Please rank the ways to increase use of open science practices, with the first item being the most impactful way. - Increasing support from superiors",rank_impact_support_superiors
+"Please rank the ways to increase use of open science practices, with the first item being the most impactful way. - Training via workshops",rank_impact_workshops
+"Please rank the ways to increase use of open science practices, with the first item being the most impactful way. - Training via webinars",rank_impact_webinars
+"Please rank the ways to increase use of open science practices, with the first item being the most impactful way. - Training via article tutorials",rank_impact_article_tutorials
+"Please rank the ways to increase use of open science practices, with the first item being the most impactful way. - Access to resources (e.g., suitable registries)",rank_impact_resource_access
+"From which sources have you learned about preprints, open data, and/or preregistration? Check all that apply. - Selected Choice",sources_you_learned_from
+"From which sources have you learned about preprints, open data, and/or preregistration? Check all that apply. - Other (explain below) - Text",sources_you_learned_from_other
+"How would you like to learn more about preprints, open data, and preregistration? Check all that apply. - Selected Choice",how_like_learn_more
+"How would you like to learn more about preprints, open data, and preregistration? Check all that apply. - Other (explain below) - Text",how_like_learn_more_other
+"Please rate your agreement with the following statement:
+
+
+I plan to _____ within the next two years. - Post a preprint",plan_to_post_preprint
+"Please rate your agreement with the following statement:
+
+
+I plan to _____ within the next two years. - Read or download a preprint online",plan_to_read_preprint
+"Please rate your agreement with the following statement:
+
+
+I plan to _____ within the next two years. - Make my data open",plan_make_data_open
+"Please rate your agreement with the following statement:
+
+
+I plan to _____ within the next two years. - Access open data online",plan_access_open_data
+"Please rate your agreement with the following statement:
+
+
+I plan to _____ within the next two years. - Preregister a project",plan_to_prereg
+"Please rate your agreement with the following statement:
+
+
+I plan to _____ within the next two years. - Read a preregistration online",plan_read_prereg
+How do you identify yourself on the basis of race/ethnicity? Check all that apply. - Selected Choice,race
+How do you identify yourself on the basis of race/ethnicity? Check all that apply. - Prefer to self-describe: - Text,race_other
+How do you identify yourself on the basis of gender? - Selected Choice,gender
+How do you identify yourself on the basis of gender? - Prefer to self-describe: - Text,gender_other
+"As a behavior analyst, how do you identify? - Selected Choice",ba_identify
+"As a behavior analyst, how do you identify? - Other (please explain) - Text",ba_identify_other
+Which best describes your primary work setting? - Selected Choice,primary_work_setting
+Which best describes your primary work setting? - Other (please explain) - Text,primary_work_setting_other
+What is your current position? - Selected Choice,current_position
+What is your current position? - Other (please explain) - Text,current_position_other
+How many years have you been at your current position? Please enter a number between 0-100.,years_current_position
+Approximately how many publications have you authored or co-authored? Please enter a number between 0-1000.,pubs_authored
+Which type of research do you most often conduct? - Selected Choice,research_conducted
+Which type of research do you most often conduct? - Other (Please explain) - Text,research_conducted_other
+"If you would like to be entered into a drawing to receive one of ten $10 Visa gift cards, please enter your name and email in the box below.",include_in_drawing
